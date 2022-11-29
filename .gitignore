@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+lectures/03_Regularization/01_ridge_and_lasso_completed.ipynb
